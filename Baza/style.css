@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,100;1,200&display=swap');
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    background-image:url("./padure2.jpg");
+    font-family:"Poppins",sans-serif;
+    margin:0;
+    
+}
